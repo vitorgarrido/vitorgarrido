@@ -22,17 +22,6 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-## 🐍 Minhas Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vitorgarrido/vitorgarrido/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vitorgarrido/vitorgarrido/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake"
-    src="https://raw.githubusercontent.com/vitorgarrido/vitorgarrido/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 
  <a href="https://instagram.com/vitor._garrido/" target="_blank">
